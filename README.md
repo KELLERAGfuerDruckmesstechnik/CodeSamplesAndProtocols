@@ -35,8 +35,7 @@ https://download.keller-druck.com/api/download/RCmxt6uoDcmmD29J5ETTNc/en/latest.
 - Newer examples can be ... TODO
 
 ### .NET / C# code samples
-Sample program for the communication with KELLER-devices, in the programming language C# (.NET)
-
+Sample program for the communication with KELLER-devices, in the programming language C# (.NET)  
 - C#  
 https://github.com/KELLERAGfuerDruckmesstechnik/KellerProtocolDemos/tree/master/KellerProtocol
 - WPF  
@@ -65,3 +64,14 @@ https://download.keller-druck.com/api/download/7RkHoYADdzBLNvadP9s5iF/en/latest.
 Sample program for the communication with KELLER-devices, in the programming language Agilent Visual Engineering Environment (VEE)  
 - VEE  
 https://download.keller-druck.com/api/download/zL7auM9Ua6eTUW48g8Lv7a/en/latest.zip
+
+### For KOLIBRI Cloud: API daemon example with permanent access token
+This example code shows basic access to the KOLIBRI Cloud API using a access token from KELLER to gather measurement data from the KOLIBRI Cloud. The API's specification can be found here: https://api.kolibricloud.ch/swagger/index.html?url=/swagger/v1/swagger.json 
+- Python  
+https://github.com/KELLERAGfuerDruckmesstechnik/Kolibri-Cloud-API-daemon-example-with-access-token
+- C#  
+https://github.com/KELLERAGfuerDruckmesstechnik/Kolibri-Cloud-API-daemon-example-with-access-token
+
+### Windows Desktop Software programs
+- Windows Dekstop SW such as the KOLIBRI Desktop, GSM-Setup, ControlCenterSeries30 (CCS30), K-114 Config, Conductivity Calibration Tool, Datamanager, Pressure Switch Console and more
+https://keller-druck.com/en/products/software
