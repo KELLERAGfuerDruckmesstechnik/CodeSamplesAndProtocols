@@ -2,7 +2,6 @@
 
 *`"Teaching by precept is a long road, but short and beneficial is the way by example." - Seneca the Younger`*
 
-
 ### Software Disclaimer  
 https://download.keller-druck.com/api/download/NcL5jy6xdYhGEWiXYbrsvQ/en/2018-03.pdf
 
@@ -14,9 +13,7 @@ https://download.keller-druck.com/api/download/PLCRdb6W8R9jpjb32cXtq7/en/latest.
 
 ### Compiled DLL 
 S30c.dll for communication with all KELLER digital products, in particular series 3X and 4X transmitters. This DLL is used in the READ30 program and in a few programming examples.
-
 DCXc.dll for communication with all KELLER digital loggers, in particular the DCX and LEO-Record series.
-
 These DLLs enable communication via serial interface and can be run in various programming languages under Windows OS.
 
 - S30c.dll / S30c_64bit.dll / DCXc.dll  
@@ -29,9 +26,9 @@ Sample program for the communication with KELLER devices, in the programming lan
 https://download.keller-druck.com/api/download/2nFE9ZQgSTtb8ibCwL6gq6/en/latest.zip
 
 ### LabVIEW code sample
-Sample program for the communication with KELLER-devices, in the LabVIEW Development System  
+Sample program for the communication with KELLER devices, in the LabVIEW Development System  
 - KELLER RS485 Library  
-The library can be installed using the JKI VI Package Manager (VIPM).
+The "KELLER RS485 Library" can be installed using the JKI VI Package Manager (VIPM).
 - Older samples  
 https://download.keller-druck.com/api/download/RCmxt6uoDcmmD29J5ETTNc/en/latest.zip  
 
@@ -67,7 +64,8 @@ Sample program for the communication with KELLER-devices, in the programming lan
 https://download.keller-druck.com/api/download/zL7auM9Ua6eTUW48g8Lv7a/en/latest.zip
 
 ### For KOLIBRI Cloud: API daemon example with permanent access token
-This example code shows basic access to the KOLIBRI Cloud API using a access token from KELLER to gather measurement data from the KOLIBRI Cloud. The API's specification can be found here: https://api.kolibricloud.ch/swagger/index.html?url=/swagger/v1/swagger.json 
+This example code shows basic access to the KOLIBRI Cloud API using a access token from KELLER to gather measurement data from the KOLIBRI Cloud. The API's specification can be found here: https://api.kolibricloud.ch/swagger/index.html?url=/swagger/v1/swagger.json or
+on https://docs.kolibricloud.ch/cloud-interfaces/api/access_details/
 - Python  
 https://github.com/KELLERAGfuerDruckmesstechnik/Kolibri-Cloud-API-daemon-example-with-access-token
 - C#  
