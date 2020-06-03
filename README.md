@@ -1,6 +1,7 @@
 # KELLER bus/communication protocols and code samples 
+The following content can be found on https://github.com/KELLERAGfuerDruckmesstechnik/CodeSamplesAndProtocols  
 
-*`"Teaching by precept is a long road, but short and beneficial is the way by example." - Seneca the Younger`*
+> *`"Teaching by precept is a long road, but short and beneficial is the way by example." - Seneca the Younger`*
 
 ### Software Disclaimer  
 https://download.keller-druck.com/api/download/NcL5jy6xdYhGEWiXYbrsvQ/en/2018-03.pdf
