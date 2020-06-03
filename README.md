@@ -28,7 +28,7 @@ https://download.keller-druck.com/api/download/2nFE9ZQgSTtb8ibCwL6gq6/en/latest.
 ### LabVIEW code sample
 Sample program for the communication with KELLER devices, in the LabVIEW Development System  
 - KELLER RS485 Library  
-The "KELLER RS485 Library" can be installed using the JKI VI Package Manager (VIPM).
+The "KELLER RS485 Library" can be installed using the JKI VI Package Manager (VIPM)
 - Older samples  
 https://download.keller-druck.com/api/download/RCmxt6uoDcmmD29J5ETTNc/en/latest.zip  
 
