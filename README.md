@@ -72,5 +72,5 @@ https://github.com/KELLERAGfuerDruckmesstechnik/Kolibri-Cloud-API-daemon-example
 https://github.com/KELLERAGfuerDruckmesstechnik/Kolibri-Cloud-API-daemon-example-with-access-token
 
 ### Windows Desktop Software programs
-- Windows Dekstop SW such as the KOLIBRI Desktop, GSM-Setup, ControlCenterSeries30 (CCS30), K-114 Config, Conductivity Calibration Tool, Datamanager, Pressure Switch Console and more
-https://keller-druck.com/en/products/software
+- Windows Dekstop SW such as the KOLIBRI Desktop, GSM-Setup, ControlCenterSeries30 (CCS30), K-114 Config, Conductivity Calibration Tool, Datamanager, Pressure Switch Console and more  
+See https://keller-druck.com/en/products/software
