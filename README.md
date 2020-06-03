@@ -5,7 +5,7 @@
 ### Software Disclaimer  
 https://download.keller-druck.com/api/download/NcL5jy6xdYhGEWiXYbrsvQ/en/2018-03.pdf
 
-### Bus Protocols / Communication Protocols
+### Bus Protocols & Communication Protocols
 Protocol descriptions of the serial BUS interface (commands) and the IoT communication protocol  
 
 - ConverterK114, dv2, LEX, Serie30, 4LD-9LD, DCX, Leo Record, SDI-12, ARC1, ADT1, GSM2-Dataformat  
