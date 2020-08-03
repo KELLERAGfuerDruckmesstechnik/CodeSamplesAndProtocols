@@ -1,16 +1,14 @@
 # KELLER bus/communication protocols and code samples 
 The following content can be found on https://github.com/KELLERAGfuerDruckmesstechnik/CodeSamplesAndProtocols  
 
-> *`"Teaching by precept is a long road, but short and beneficial is the way by example." - Seneca the Younger`*
-
 ### Software Disclaimer  
-https://download.keller-druck.com/api/download/NcL5jy6xdYhGEWiXYbrsvQ/en/2018-03.pdf
+https://download.keller-druck.com/api/download/NcL5jy6xdYhGEWiXYbrsvQ/en/latest.pdf
 
 ### Bus Protocols & Communication Protocols
 Protocol descriptions of the serial BUS interface (commands) and the IoT communication protocol  
 
 - ConverterK114, dv2, LEX, Serie30, 4LD-9LD, DCX, Leo Record, SDI-12, ARC1, ADT1, GSM2-Dataformat  
-https://download.keller-druck.com/api/download/PLCRdb6W8R9jpjb32cXtq7/en/latest.zip
+https://keller-druck.com/en/downloads?categories=Software.Communication-Protocols
 
 ### Compiled DLL 
 S30c.dll for communication with all KELLER digital products, in particular series 3X and 4X transmitters. This DLL is used in the READ30 program and in a few programming examples.
@@ -36,14 +34,12 @@ https://download.keller-druck.com/api/download/RCmxt6uoDcmmD29J5ETTNc/en/latest.
 ### .NET / C# code samples
 Sample program for the communication with KELLER-devices, in the programming language C# (.NET)  
 - C#  
-https://github.com/KELLERAGfuerDruckmesstechnik/KellerProtocolDemos/tree/master/KellerProtocol
+https://github.com/KELLERAGfuerDruckmesstechnik/KellerProtocolDemos/tree/master/KellerProtocol  
 - WPF  
-https://github.com/KELLERAGfuerDruckmesstechnik/KellerProtocolDemos
+https://github.com/KELLERAGfuerDruckmesstechnik/KellerProtocolDemos  
 - UWP  
-https://github.com/KELLERAGfuerDruckmesstechnik/KellerProtocolDemos
-- Older samples  
-https://download.keller-druck.com/api/download/QifGxzGiguLWk2rGZCAvB4/en/latest.zip
-
+https://github.com/KELLERAGfuerDruckmesstechnik/KellerProtocolDemos  
+  
 ### Delphi code sample
 Sample program for the communication with KELLER-devices, in the programming language Delphi
 - Delphi  
