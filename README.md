@@ -27,7 +27,7 @@ https://download.keller-druck.com/api/download/2nFE9ZQgSTtb8ibCwL6gq6/en/latest.
 ### LabVIEW code sample
 Sample program for the communication with KELLER devices, in the LabVIEW Development System
 - KELLER RS485 Library  
-http://www.ni.com/gate/gb/GB_EVALTLKTKELLERRS485/US  
+http://sine.ni.com/nips/cds/view/p/lang/de/nid/218469 
 - Older samples  
 https://download.keller-druck.com/api/download/RCmxt6uoDcmmD29J5ETTNc/en/latest.zip  
 
