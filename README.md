@@ -28,8 +28,6 @@ https://download.keller-druck.com/api/download/2nFE9ZQgSTtb8ibCwL6gq6/en/latest.
 Sample program for the communication with KELLER devices, in the LabVIEW Development System
 - KELLER RS485 Library  
 http://sine.ni.com/nips/cds/view/p/lang/de/nid/218469 
-- Older samples  
-https://download.keller-druck.com/api/download/RCmxt6uoDcmmD29J5ETTNc/en/latest.zip  
 
 ### .NET / C# code samples
 Sample program for the communication with KELLER-devices, in the programming language C# (.NET)  
