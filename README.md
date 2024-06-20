@@ -65,12 +65,12 @@ Sample program for the communication with KELLER-devices, in the programming lan
 https://download.keller-druck.com/api/download/zL7auM9Ua6eTUW48g8Lv7a/en/latest.zip
 
 ### For PressureSuite Cloud: API daemon example with a permanent access token
-This example code shows basic access to the PressureSuite Cloud API using an access token from KELLER to gather measurement data from the KOLIBRI Cloud. The API's specification can be found here: https://api.pressuresuite.com/swagger/index.html?url=/swagger/v1/swagger.json or
+This example code shows basic access to the PressureSuite Cloud API using an access token from KELLER to gather measurement data from the PressureSuite Cloud. The API's specification can be found here: https://api.pressuresuite.com/swagger/index.html?url=/swagger/v1/swagger.json or
 on https://docs.pressuresuite.com/cloud-interfaces/api/access_details/
 - Python  
 https://github.com/KELLERAGfuerDruckmesstechnik/PressureSuite-Cloud-API-daemon-example-with-access-token
 - C#  
-[https://github.com/KELLERAGfuerDruckmesstechnik/Kolibri-Cloud-API-daemon-example-with-access-token](https://github.com/KELLERAGfuerDruckmesstechnik/PressureSuite-Cloud-API-daemon-example-with-access-token)
+[https://github.com/KELLERAGfuerDruckmesstechnik/PressureSuite-Cloud-API-daemon-example-with-access-token](https://github.com/KELLERAGfuerDruckmesstechnik/PressureSuite-Cloud-API-daemon-example-with-access-token)
 
 ### Windows Desktop software programs
 - Windows Desktop SW such as PressureSuite Desktop, GSM-Setup, ControlCenterSeries30 (CCS30), K-114 Config, Conductivity Calibration Tool, Datamanager, Pressure Switch Console and more  
