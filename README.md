@@ -64,6 +64,11 @@ Sample program for the communication with KELLER-devices, in the programming lan
 - VEE  
 https://download.keller-pressure.com/api/download/zL7auM9Ua6eTUW48g8Lv7a/en/latest.zip
 
+### Matlab code sample
+Sample program for the communication with KELLER-devices, in the programming language Matlab (R2022b)  
+- Matlab  
+https://github.com/KELLERAGfuerDruckmesstechnik/CodeSamplesAndProtocols/tree/master/Matlab
+
 ### For PressureSuite Cloud: API daemon example with a permanent access token
 This example code shows basic access to the PressureSuite Cloud API using an access token from KELLER to gather measurement data from the PressureSuite Cloud. The API's specification can be found here: https://api.pressuresuite.com/swagger/index.html?url=/swagger/v1/swagger.json or
 on https://docs.pressuresuite.com/cloud-interfaces/api/access_details/
